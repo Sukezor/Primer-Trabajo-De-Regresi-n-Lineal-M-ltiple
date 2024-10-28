@@ -1,0 +1,4 @@
+- source: Trabajo1terminado.qmd
+  quarto-pub:
+    - id: 80006219-cb84-4aea-a2f2-bb7e991c449e
+      url: 'https://david-villegas1.quarto.pub/modelo-predictivo-de-los-precios-de-los-computadores-portatiles-con-base-en-sus-diversos-componentes'
